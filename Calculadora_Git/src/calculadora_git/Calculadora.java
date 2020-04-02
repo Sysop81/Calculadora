@@ -11,7 +11,7 @@ package calculadora_git;
  * de dos atributos que seran los operadores de cada uno de los metodos de los que consta
  * la clase.
  * Subido a GitHub el 30/03/2020
-   ------------> rama2 <-------- 
+   ------------>Comentario modificado en el apartado 9 rama2 <-------- 
  * @author Jose Ramon Lopez Guillen
  * @version 1.0,  20 de Marzo de 2020
  * @since 20 de Marzo de 2020
